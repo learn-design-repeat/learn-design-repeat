@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sanjana @learn-design-repeat
+- 👀 I’m interested in fun learning
+- 🌱 I’m currently learning Web design and Development
+- 📫 How to reach me: sanjanaprameela@gmail.com
