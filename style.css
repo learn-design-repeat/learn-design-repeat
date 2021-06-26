@@ -24,7 +24,7 @@ body {
 #title {
 	grid-area: header;
 	background-color: #87CDF6;
-	background-image: url(../images/Background1.png); 
+	background-image: url(Background1.png); 
 	background-size: cover;
 	background-repeat: no-repeat;
 	outline: 1px solid black;
@@ -59,7 +59,7 @@ body {
 
 #main-img {
 	grid-area: image;
-	background-image: url(../images/recipie1.png); 
+	background-image: url(recipie1.png); 
 	background-repeat: no-repeat;
 	background-size: cover;
 	justify-self: center;
